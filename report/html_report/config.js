@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_1024px.png",
-        "test": "..\\bitmaps_test\\20240327-221832\\Entire_document_1024px.png",
+        "test": "..\\bitmaps_test\\20240401-112754\\Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -15,23 +15,23 @@ report({
         "expect": 0,
         "viewportLabel": "1024px",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
-            "width": -21,
+            "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 5.318181818181818,
-          "misMatchPercentage": "5.32",
-          "analysisTime": 44
+          "rawMisMatchPercentage": 1.0736083984375,
+          "misMatchPercentage": "1.07",
+          "analysisTime": 51
         },
-        "diffImage": "..\\bitmaps_test\\20240327-221832\\failed_diff_Entire_document_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20240401-112754\\failed_diff_Entire_document_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_720px.png",
-        "test": "..\\bitmaps_test\\20240327-221832\\Entire_document_720px.png",
+        "test": "..\\bitmaps_test\\20240401-112754\\Entire_document_720px.png",
         "selector": "document",
         "fileName": "Entire_document_720px.png",
         "label": "Entire document",
@@ -42,23 +42,23 @@ report({
         "expect": 0,
         "viewportLabel": "720px",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
-            "width": -21,
+            "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 6.269399460188933,
-          "misMatchPercentage": "6.27",
-          "analysisTime": 25
+          "rawMisMatchPercentage": 1.5269097222222223,
+          "misMatchPercentage": "1.53",
+          "analysisTime": 29
         },
-        "diffImage": "..\\bitmaps_test\\20240327-221832\\failed_diff_Entire_document_720px.png"
+        "diffImage": "..\\bitmaps_test\\20240401-112754\\failed_diff_Entire_document_720px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_1024px.png",
-        "test": "..\\bitmaps_test\\20240327-221832\\Big_search_bar_data-qa_big_1024px.png",
+        "test": "..\\bitmaps_test\\20240401-112754\\Big_search_bar_data-qa_big_1024px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_1024px.png",
         "label": "Big search bar data-qa_big",
@@ -69,23 +69,23 @@ report({
         "expect": 0,
         "viewportLabel": "1024px",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
-            "width": -18,
-            "height": -4
+            "width": 0,
+            "height": 0
           },
-          "rawMisMatchPercentage": 3.5258943153679994,
-          "misMatchPercentage": "3.53",
-          "analysisTime": 18
+          "rawMisMatchPercentage": 1.4200680272108845,
+          "misMatchPercentage": "1.42",
+          "analysisTime": 16
         },
-        "diffImage": "..\\bitmaps_test\\20240327-221832\\failed_diff_Big_search_bar_data-qa_big_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20240401-112754\\failed_diff_Big_search_bar_data-qa_big_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_720px.png",
-        "test": "..\\bitmaps_test\\20240327-221832\\Big_search_bar_data-qa_big_720px.png",
+        "test": "..\\bitmaps_test\\20240401-112754\\Big_search_bar_data-qa_big_720px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_720px.png",
         "label": "Big search bar data-qa_big",
@@ -96,23 +96,23 @@ report({
         "expect": 0,
         "viewportLabel": "720px",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
-            "width": -18,
-            "height": -4
+            "width": 0,
+            "height": 0
           },
-          "rawMisMatchPercentage": 4.306730553267949,
-          "misMatchPercentage": "4.31",
-          "analysisTime": 21
+          "rawMisMatchPercentage": 2.033279220779221,
+          "misMatchPercentage": "2.03",
+          "analysisTime": 20
         },
-        "diffImage": "..\\bitmaps_test\\20240327-221832\\failed_diff_Big_search_bar_data-qa_big_720px.png"
+        "diffImage": "..\\bitmaps_test\\20240401-112754\\failed_diff_Big_search_bar_data-qa_big_720px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_1024px.png",
-        "test": "..\\bitmaps_test\\20240327-221832\\Small_search_bar_data-qa_small_1024px.png",
+        "test": "..\\bitmaps_test\\20240401-112754\\Small_search_bar_data-qa_small_1024px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_1024px.png",
         "label": "Small search bar data-qa_small",
@@ -123,23 +123,23 @@ report({
         "expect": 0,
         "viewportLabel": "1024px",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
-            "width": -18,
-            "height": -4
+            "width": 0,
+            "height": 0
           },
-          "rawMisMatchPercentage": 4.845749639799983,
-          "misMatchPercentage": "4.85",
+          "rawMisMatchPercentage": 1.7880763416477703,
+          "misMatchPercentage": "1.79",
           "analysisTime": 22
         },
-        "diffImage": "..\\bitmaps_test\\20240327-221832\\failed_diff_Small_search_bar_data-qa_small_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20240401-112754\\failed_diff_Small_search_bar_data-qa_small_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_720px.png",
-        "test": "..\\bitmaps_test\\20240327-221832\\Small_search_bar_data-qa_small_720px.png",
+        "test": "..\\bitmaps_test\\20240401-112754\\Small_search_bar_data-qa_small_720px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_720px.png",
         "label": "Small search bar data-qa_small",
@@ -150,16 +150,16 @@ report({
         "expect": 0,
         "viewportLabel": "720px",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
-            "width": -18,
-            "height": -4
+            "width": 0,
+            "height": 0
           },
-          "rawMisMatchPercentage": 5.9647115500421535,
-          "misMatchPercentage": "5.96",
-          "analysisTime": 17
+          "rawMisMatchPercentage": 2.5602002164502164,
+          "misMatchPercentage": "2.56",
+          "analysisTime": 19
         },
-        "diffImage": "..\\bitmaps_test\\20240327-221832\\failed_diff_Small_search_bar_data-qa_small_720px.png"
+        "diffImage": "..\\bitmaps_test\\20240401-112754\\failed_diff_Small_search_bar_data-qa_small_720px.png"
       },
       "status": "fail"
     }
